@@ -1,0 +1,19 @@
+{
+    "name": "utdevnp/contact",
+    "description": "Complete contact form with email sending feature",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Utdevnp\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ut Dev",
+            "email": "utdevnp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
