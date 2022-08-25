@@ -1,6 +1,7 @@
 ## Complete contact form with email sending feature
 
 [![Issues](https://img.shields.io/github/issues/utdevnp/pro-contact)](https://github.com/utdevnp/pro-contact/issues)
+[![Issues](https://img.shields.io/github/stars/utdevnp/pro-contact)]
 ### Install package via composer
 <code>
     composer require utdevnp/contact
