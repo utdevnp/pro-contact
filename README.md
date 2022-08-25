@@ -1,5 +1,6 @@
 ## Complete contact form with email sending feature
 
+[![Issues](https://img.shields.io/github/issues/utdevnp/pro-contact)](https://github.com/utdevnp/pro-contact/issues)
 ### Install package via composer
 <code>
     composer require utdevnp/contact
@@ -9,7 +10,7 @@
 Run 
 <code>
     php artisan vendor:publish
-</code> and select <b> Utdevnp\Contact\ContactServiceProvider </b>
+</code>  and select <b> Utdevnp\Contact\ContactServiceProvider </b>
 
 ### This package have a two routes 
 <ul>
@@ -17,7 +18,7 @@ Run
     <li>POST / contact  - Save contact detail in database and send message to email </li>
 </ul>
 
-<p>After publishing you are able to change the form design as per your requirement , You can also able to able to made UI validation. </p>
+<p>After publishing you are able to change the form design as per your requirement , You can to able to made UI validation. </p>
 
 ### How to Contribute
 <ol>
