@@ -19,7 +19,7 @@ Run
     <li>POST / contact  - Save contact detail in database and send message to email </li>
 </ul>
 
-<p>After publishing you are able to change the form design as per your requirement , You can to able to made UI validation. </p>
+<p>After publishing you will be able to change the design of the form as per your requirement , You will be able to make UI validation. </p>
 
 ### How to Contribute
 <ol>
