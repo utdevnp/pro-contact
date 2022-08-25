@@ -19,13 +19,13 @@ Run
 
 <p>After publishing you are able to change the form design as per your requirement , You can also able to able to made UI validation. </p>
 
-## How to Contribute
+### How to Contribute
 <ol>
   <li>Fork and edit</li>
   <li>Submit pull request for consideration</li>
 </ol>
 
-## License
+### License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
