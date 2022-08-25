@@ -1,5 +1,3 @@
-# Contact Form Package
-
 ## Complete contact form with email sending feature
 
 ### Install package via composer
@@ -11,12 +9,24 @@
 Run 
 <code>
     php artisan vendor:publish
-</code>
-
-and select <b> Utdevnp\Contact\ContactServiceProvider </b>
+</code> and select <b> Utdevnp\Contact\ContactServiceProvider </b>
 
 ### This package have a two routes 
 <ul>
     <li>GET / contact  - shows the contact form </li>
     <li>POST / contact  - Save contact detail in database and send message to email </li>
 </ul>
+
+<p>After publishing you are able to change the form design as per your requirement , You can also able to able to made UI validation. </p>
+
+## How to Contribute
+<ol>
+  <li>Fork and edit</li>
+  <li>Submit pull request for consideration</li>
+</ol>
+
+## License
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+### Happy Coding :smile:
